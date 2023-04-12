@@ -6,6 +6,8 @@ public class Day2Demo {
 		
 		System.out.println("Day 2 Git");
 		
+		System.out.println("TESTING");
+		
 	}
 
 }
